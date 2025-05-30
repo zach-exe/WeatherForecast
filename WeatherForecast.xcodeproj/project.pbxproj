@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		A88B7AB02DDFA596001DEBD0 /* WeatherForcast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherForcast.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A88B7AB02DDFA596001DEBD0 /* WeatherForecast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherForecast.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -40,7 +40,7 @@
 		A88B7AB12DDFA596001DEBD0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A88B7AB02DDFA596001DEBD0 /* WeatherForcast.app */,
+				A88B7AB02DDFA596001DEBD0 /* WeatherForecast.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A88B7AAF2DDFA596001DEBD0 /* WeatherForcast */ = {
+		A88B7AAF2DDFA596001DEBD0 /* WeatherForecast */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A88B7ABB2DDFA597001DEBD0 /* Build configuration list for PBXNativeTarget "WeatherForcast" */;
+			buildConfigurationList = A88B7ABB2DDFA597001DEBD0 /* Build configuration list for PBXNativeTarget "WeatherForecast" */;
 			buildPhases = (
 				A88B7AAC2DDFA596001DEBD0 /* Sources */,
 				A88B7AAD2DDFA596001DEBD0 /* Frameworks */,
@@ -63,11 +63,11 @@
 			fileSystemSynchronizedGroups = (
 				A88B7AB22DDFA596001DEBD0 /* WeatherForcast */,
 			);
-			name = WeatherForcast;
+			name = WeatherForecast;
 			packageProductDependencies = (
 			);
 			productName = WeatherForcast;
-			productReference = A88B7AB02DDFA596001DEBD0 /* WeatherForcast.app */;
+			productReference = A88B7AB02DDFA596001DEBD0 /* WeatherForecast.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A88B7AAB2DDFA596001DEBD0 /* Build configuration list for PBXProject "WeatherForcast" */;
+			buildConfigurationList = A88B7AAB2DDFA596001DEBD0 /* Build configuration list for PBXProject "WeatherForecast" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A88B7AAF2DDFA596001DEBD0 /* WeatherForcast */,
+				A88B7AAF2DDFA596001DEBD0 /* WeatherForecast */,
 			);
 		};
 /* End PBXProject section */
@@ -305,7 +305,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A88B7AAB2DDFA596001DEBD0 /* Build configuration list for PBXProject "WeatherForcast" */ = {
+		A88B7AAB2DDFA596001DEBD0 /* Build configuration list for PBXProject "WeatherForecast" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A88B7AB92DDFA597001DEBD0 /* Debug */,
@@ -314,7 +314,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A88B7ABB2DDFA597001DEBD0 /* Build configuration list for PBXNativeTarget "WeatherForcast" */ = {
+		A88B7ABB2DDFA597001DEBD0 /* Build configuration list for PBXNativeTarget "WeatherForecast" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A88B7ABC2DDFA597001DEBD0 /* Debug */,
